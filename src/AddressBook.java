@@ -31,6 +31,7 @@ public class AddressBook {
 		AddressBook ab = new AddressBook();
 		ab.addBuddy(bi);
 		ab.removeBuddy(0);
+		System.out.println("Editing file on GitHub repository");
 	}
 
 }
